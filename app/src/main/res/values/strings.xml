@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise01</string>
+    <string name="department">BS Information Technology</string>
+    <string name="button_text">Show Chairwoman</string>
+
+    <string name="student_id">ID: 22103894</string>
+    <string name="chairwoman_name">Angie Ceniza Canillo</string>
+</resources>
