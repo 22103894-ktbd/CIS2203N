@@ -20,6 +20,23 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/button_text"
-        android:layout_marginTop="20dp" />
+        android:layout_marginTop="20dp"/>
+
+    <!-- Counter Display -->
+    <TextView
+        android:id="@+id/tvCounter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/counter_text"
+        android:textSize="30sp"
+        android:layout_marginTop="40dp"/>
+
+    <!-- Increment Button -->
+    <Button
+        android:id="@+id/btnIncrease"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/increment_button"
+        android:layout_marginTop="10dp"/>
 
 </LinearLayout>
